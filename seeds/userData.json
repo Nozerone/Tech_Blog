@@ -1,0 +1,16 @@
+[
+    {
+        "user_name":"Josh",
+        "email":"jtatum1820@live.com",
+        "password":"password12345",
+        "id": 1
+       
+     },
+     {
+        "user_name":"Joseph",
+        "email":"nozerone@hotmail.com",
+       "password":"password12345",
+        "id": 2
+     }
+
+]
